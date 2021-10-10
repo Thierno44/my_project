@@ -1,4 +1,4 @@
-python -m pip install --upgrade pip
-python -m pip install pandas
-python -m pip install sklearn
-python -m pip install pickle
+pip install pandas
+pip install numpy
+pip install sklearn
+pip install pickle
